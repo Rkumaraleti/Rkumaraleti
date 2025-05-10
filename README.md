@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Modern Tech Stack: MERN <br>👯 I’m looking to collaborate with passinate learners<br>🌱 I’m currently learning to use AI for speeding my development time<br>⚡ Fun fact: My Interests are wide spread so I'm that guy who put leg in many boats... and where many shoes...👞
+🔭 I’m currently working on Modern Tech Stack: MERN <br>👯 I’m looking to collaborate with passinate learners<br>🌱 I’m currently learning to use AI for speeding my development time<br>⚡ Fun fact: My Interests are wide spread so I'm that guy who put leg in many boats... and wear many shoes...👞
 
 
 ## 🌐 Socials:
